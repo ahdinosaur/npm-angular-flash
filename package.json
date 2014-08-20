@@ -1,6 +1,7 @@
 {
   "name": "angular-flash",
   "description": "Flash messages for Angular JS",
+  "main": "./dist/angular-flash.js",
   "private": false,
   "version": "0.1.13",
   "homepage": "https://github.com/wmluke/angular-flash",
